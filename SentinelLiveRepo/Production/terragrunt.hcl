@@ -7,9 +7,9 @@ locals {
 }
 
 inputs = {
-    prefix = "productionenv"
-    location = "australiaeast"
-    required_license_enabled = "0"
+    prefix = "odz-weup-soc"
+    location = "westeurope"
+    required_license_enabled = "1"
     
 }
 
